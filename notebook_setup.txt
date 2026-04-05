@@ -1,0 +1,6 @@
+For Setting up kernel in .ipynb
+python3 -m venv venv
+source venv/bin/activate
+which python
+python -m pip install ipykernel jupyter
+python -m ipykernel install --user --name=venv --display-name "Python (project)"
