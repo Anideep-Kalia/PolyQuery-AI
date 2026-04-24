@@ -4,7 +4,7 @@ VeriRAG is a verification-first Retrieval-Augmented Generation (RAG) notebook bu
 
 The main notebook is [VeriRAG.ipynb](./VeriRAG.ipynb).
 
-![VeriRAG Architecture](![alt text](image.png))
+![VeriRAG Architecture](![alt text](utils/image.png))
 
 ## Why VeriRAG Exists
 
